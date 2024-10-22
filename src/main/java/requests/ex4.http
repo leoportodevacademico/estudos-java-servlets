@@ -1,0 +1,4 @@
+### POST request to Ex4Servlet
+POST http://localhost:8080/estudosServlets-1.0-SNAPSHOT/ex4
+Content-Type: text/plain
+
